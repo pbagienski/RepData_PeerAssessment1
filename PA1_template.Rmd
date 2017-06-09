@@ -1,8 +1,9 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
 author: Phil Bagienski
-output: html_document
-keep md: true
+output: 
+  html_document:
+    keep_md: true
 ---
 
 ## Loading and preprocessing the data
